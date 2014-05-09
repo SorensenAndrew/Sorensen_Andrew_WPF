@@ -61,4 +61,9 @@ console.log("You have spent a total of " + "$" + billTotal + " " + "on groceries
 //Problem 4
 // Calculate discount on an item with and without sales tax
 
+//Givens
+var priceOriginal= 100;
+var dicountPercent= 15;
+var itemDescription= "MP3 Player";
+var salesTaxPercent= 6;
 
