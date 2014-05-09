@@ -47,5 +47,12 @@ var week3Bill= 175;
 var week4Bill= 200;
 var week5Bill= 110;
 
+// Variables- Amount spent of groceries as well as average for the 5 weeks
+
+var billTotal= week1Bill + week2Bill + week3Bill + week4Bill + week5Bill;
+var billAverage= billTotal / 5;
+console.log(billTotal);
+console.log(billAverage);
+
 
 
