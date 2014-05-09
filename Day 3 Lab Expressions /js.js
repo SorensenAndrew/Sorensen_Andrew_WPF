@@ -26,6 +26,12 @@ console.log("Each party goer will recieve "+ slicePerGuest +" " + "slices of piz
 sliceNumber= 10;
 guestNumber= 25;
 pizzaNumber= 4;
+slicePerGuest= 1.6;
+
 
 //Formula for how many slices Sparky will receive
+var sparkySlices= sliceNumber * pizzaNumber - guestNumber;
+console.log(sparkySlices);
+
+
 
