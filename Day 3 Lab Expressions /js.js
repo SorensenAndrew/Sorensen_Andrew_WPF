@@ -58,4 +58,7 @@ console.log(billAverage);
 console.log("You have spent a total of " + "$" + billTotal + " " + "on groceries over 5 weeks." + "That is an average of" + " " + "$" + billAverage + " " + "per week.");
 
 
+//Problem 4
+// Calculate discount on an item with and without sales tax
+
 
