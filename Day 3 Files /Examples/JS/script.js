@@ -53,4 +53,20 @@ a/= 2;
 a*=6;
 console.log(a);
 
+// Strings
+// "" or '' used to find the beginning and end of string
+// Needed to distinguish between variable names and normal text
+
+var kermit = "Light green";
+var frogName = "kermit";
+
+// Double or Single quotes?
+// Either, as long as the they match
+var courseName = 'Web Programming Fundamentals';
+var phrase = 'I don\'t know.\nNew line starts here';
+console.log(phrase);
+//Escaping character \ backslash
+// \n - new line character
+
+
 
