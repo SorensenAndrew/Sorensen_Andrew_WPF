@@ -76,5 +76,6 @@ var withTax=withoutTax + (withoutTax * salesTaxPercent);
 //Check with tax price
 console.log(withTax);
 
-
+//Final Statement
+console.log("Your" + " " + itemDescription + " " + "was originally" + " $" + priceOriginal + " " + "but after a" + " " + dicountPercent + " " + "disocount, it is now" + " " + "$" + withoutTax + " "+ "without tax" + " " + "and" + " " + "$" + withTax + " " + "with tax.");
 
