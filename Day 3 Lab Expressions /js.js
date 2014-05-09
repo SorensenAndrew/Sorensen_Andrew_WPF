@@ -40,5 +40,12 @@ console.log("Sparky got " + sparkySlices + " " + "slices of pizza.");
 //Problem 3
 // Calculate average amount spent on groceries over a 5 week period
 
+//Givens
+var week1Bill= 120;
+var week2Bill= 80;
+var week3Bill= 175;
+var week4Bill= 200;
+var week5Bill= 110;
+
 
 
