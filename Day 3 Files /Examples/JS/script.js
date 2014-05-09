@@ -80,3 +80,28 @@ var maybe = "true";
 
 var nope = false;
 
+// Order of operations
+// Find the average of four quiz grades
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+var quiz4 = 80;
+
+var average = (quiz1 + quiz2 + quiz3 + quiz4) /4;
+console.log(average);
+
+// Do not over use parenthesis
+
+//Find perimeter of a rectangle
+// Length *2 + Width *2
+
+//Create variable for givens
+var length = 7;
+var width = 6;
+
+var perimeter = length * 2 + width * 2;
+console.log(perimeter);
+
+
+
+
