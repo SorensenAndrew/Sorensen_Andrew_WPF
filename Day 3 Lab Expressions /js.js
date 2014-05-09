@@ -14,3 +14,10 @@ var pizzaNumber = 4;
 // Formula depicting number of slices per person
 var slicePerGuest = sliceNumber * pizzaNumber / guestNumber;
 console.log(slicePerGuest);
+
+// Final statement of formula depicting slices per person
+
+console.log("Each party goer will recieve "+ slicePerGuest +" " + "slices of pizza.");
+
+
+
