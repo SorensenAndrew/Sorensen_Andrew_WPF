@@ -68,5 +68,15 @@ console.log(phrase);
 //Escaping character \ backslash
 // \n - new line character
 
+//Boolean
+// True or False
+// NOT the text value of it
+// Must be lower case
 
+var yes = true;
+
+// Not Boolean, only text
+var maybe = "true";
+
+var nope = false;
 
