@@ -33,5 +33,8 @@ slicePerGuest= 1.6;
 var sparkySlices= sliceNumber * pizzaNumber - guestNumber;
 console.log(sparkySlices);
 
+// Statement of how many slices of pizza Sparky will receive
+
+console.log("Sparky got " + sparkySlices + " " + "slices of pizza.");
 
 
