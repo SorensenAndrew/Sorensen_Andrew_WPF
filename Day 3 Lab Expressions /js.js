@@ -54,5 +54,8 @@ var billAverage= billTotal / 5;
 console.log(billTotal);
 console.log(billAverage);
 
+// Final Result for total bill and average
+console.log("You have spent a total of " + "$" + billTotal + " " + "on groceries over 5 weeks." + "That is an average of" + " " + "$" + billAverage + " " + "per week.");
+
 
 
