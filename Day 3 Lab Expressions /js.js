@@ -63,7 +63,18 @@ console.log("You have spent a total of " + "$" + billTotal + " " + "on groceries
 
 //Givens
 var priceOriginal= 100;
-var dicountPercent= 15;
+var dicountPercent= .15;
 var itemDescription= "MP3 Player";
-var salesTaxPercent= 6;
+var salesTaxPercent= .06;
+
+// Result variables
+
+var withoutTax=priceOriginal - (priceOriginal * dicountPercent);
+//Check without tax price
+console.log(withoutTax);
+var withTax=withoutTax + (withoutTax * salesTaxPercent);
+//Check with tax price
+console.log(withTax);
+
+
 
