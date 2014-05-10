@@ -22,12 +22,6 @@ console.log("Each party goer will recieve "+ slicePerGuest +" " + "slices of piz
 //Problem 2
 // Assuming all guests get full slices, determine how much leftover pizza Sparky the dog will receive.
 
-//Givens
-sliceNumber= 10;
-guestNumber= 25;
-pizzaNumber= 4;
-slicePerGuest= 1.6;
-
 
 //Formula for how many slices Sparky will receive
 var sparkySlices= sliceNumber * pizzaNumber - guestNumber;
