@@ -17,7 +17,7 @@ var prepTime= parseInt(eating) + parseInt(hygeine) + parseInt(driveTime);
 console.log(prepTime);
 //Put calculation into final expression
 alert("It takes you " + prepTime + " minutes to get prepared for and arrive at school." );
-//Testing expression 
+//Testing expression
 console.log("It takes you " + prepTime + " minutes to get prepared for and arrive at school." );
 
 
