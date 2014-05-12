@@ -18,4 +18,5 @@ console.log(lemmingsDead);
 var averageDead= (lemmingsDead[0] + lemmingsDead[1] + lemmingsDead[2]) / 3;
 console.log(averageDead);
 
+console.log("An average of " + averageDead + " lemmings died per day.");
 
