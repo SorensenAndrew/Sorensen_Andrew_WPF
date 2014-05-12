@@ -12,3 +12,10 @@ var eating= prompt("How long does it take you to make and eat food?");
 var hygeine= prompt("How long does it take you to shower, shave, and brush your teeth?");
 var driveTime = prompt("How long does it take for you to drive to school?");
 
+var prepTime= parseInt(eating) + parseInt(hygeine) + parseInt(driveTime);
+console.log(prepTime);
+
+
+
+
+
