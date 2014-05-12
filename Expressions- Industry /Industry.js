@@ -17,3 +17,4 @@ var daysWorked= prompt("How many days did I work?")
 totalPayCheck= halfOffCard * 1 + candyBundle *.10 + rent3Get1 *.25 + daysWorked * hourlyWage;
 console.log(totalPayCheck);
 
+console.log("I made $" + totalPayCheck + " before taxes this month.");
