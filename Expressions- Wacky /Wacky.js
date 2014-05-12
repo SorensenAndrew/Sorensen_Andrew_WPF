@@ -6,5 +6,11 @@
  */
 //alert("Hello");
 
-//What is the average number of lemmings at the bottom of a canyon?
+//What is the average number of lemmings that walk to their deaths per day?
+
+var lemmingsDay1= prompt("How many lemmings died on day 1?");
+var lemmingsDay2= prompt("How many lemmings died on day 2?");
+var lemmingsDay3= prompt("How many lemmings died on day 3?");
+
+
 
