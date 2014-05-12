@@ -15,7 +15,8 @@ var driveTime = prompt("How long does it take for you to drive to school?");
 var prepTime= parseInt(eating) + parseInt(hygeine) + parseInt(driveTime);
 console.log(prepTime);
 
-
+alert("It takes you " + prepTime + " minutes to get prepared for and arrive at school." );
+console.log("It takes you " + prepTime + " minutes to get prepared for and arrive at school." );
 
 
 
