@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59739333-ee33-46a3-987f-114430b29633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 5 Files/JS/Day 5_Conditionals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 5 Files/Index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/untitled.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/untitled1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/untitled1/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions- Personal /JS/Personal.js" afterPath="$PROJECT_DIR$/Expressions- Personal /JS/Personal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions- Industry /.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions- Personal /.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions- Wacky /.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5 Files/JS/Day 5_Conditionals.js" afterPath="$PROJECT_DIR$/Day 5 Files/JS/Day 5_Conditionals.js" />
     </list>
     <ignored path="Sorensen_Andrew_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,8 +38,8 @@
       <file leaf-file-name="Day 5_Conditionals.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 5 Files/JS/Day 5_Conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48672566" vertical-offset="0" max-vertical-offset="678">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.55309737" vertical-offset="0" max-vertical-offset="678">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -289,8 +268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 5 Files/JS/Day 5_Conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48672566" vertical-offset="0" max-vertical-offset="678">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state vertical-scroll-proportion="0.55309737" vertical-offset="0" max-vertical-offset="678">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
           <folding />
         </state>
       </provider>
