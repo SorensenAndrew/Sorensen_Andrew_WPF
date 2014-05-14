@@ -5,18 +5,14 @@
  */
 //alert("Test");
 
-//Basic conditionals- if statement
+//Relational Expressions
 
-//If a child is tall enough, print to the console that he can ride a rollercoaster
+//If a child is not over 48" tall, then he cannot ride
 
-var tallEnough = true;
-/*
-If(thing to evaluate){
-Code to run, if it is true
-}
- */
+var kidHeight = 50;
+var minHeight= 48;
 
-if(tallEnough){
+if(kidHeight>=minHeight){
     //This code will run if the child is tall enough
     console.log("You can ride the rollercoaster.");
 } else {
@@ -24,3 +20,4 @@ if(tallEnough){
     console.log("You cannot ride the rollercoaster.");
 }
 console.log("What comes after");
+
