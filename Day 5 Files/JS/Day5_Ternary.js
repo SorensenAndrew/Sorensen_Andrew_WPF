@@ -24,17 +24,18 @@ if(gpa>minGPA){
 //Pick a book based on a kids age
 //Under 10- Green eggs and ham, 10+ gets Time Machine
 
-var age=6
+var age=6;
 
-(age < 10)? console.log("Green eggs and ham") : console.log("Time Machine")
-(age>=10)? console.log("Time Machine"): console.log("Green Eggs and Ham")
+(age < 10 ) ? console.log("blah1") : console.log("blah2");
+//(age < 10)? console.log("Green eggs and ham") : console.log("Time Machine");
+//(age>=10)? console.log("Time Machine"): console.log("Green Eggs and Ham");
 
 //Save the book name to a variable
 var book;
 
-book= (age<10)? "Green Eggs and Ham.":"Time Machine"
+book= (age<10)? "Green Eggs and Ham.":"Time Machine";
 
 if(age<10){
     book= "Time Machine";
 }
-console.log("This is the statement for if")
+console.log("This is the if statement book " + book);
