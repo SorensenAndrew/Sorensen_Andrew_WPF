@@ -48,9 +48,9 @@ var customerAge= 60
 
 
 if((movieTime>= 3 && movieTime<= 5)|| customerAge>= 55){
-    console.log("The ticket price is " + (12 - 5));
+    console.log("The ticket price is " +"$"+ (12 - 5)+".");
 }else{
-    console.log("The ticket price is " + 12);
+    console.log("The ticket price is " +"$"+ 12)+".";
 
 }
 
