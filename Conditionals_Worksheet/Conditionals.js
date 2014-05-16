@@ -21,7 +21,7 @@ if(mpg*tankCapacity*gasTank > 200){
 
 //Grade Letter Calculator
 
-var grade= 85
+var grade= 84
 
 if(grade <= 100 && grade >= 95){
     console.log("You have " + grade + "%" + " ,which means you have earned an A+ in this class." );
