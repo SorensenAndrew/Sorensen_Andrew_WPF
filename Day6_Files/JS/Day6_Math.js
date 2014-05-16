@@ -26,3 +26,23 @@ var num3= 4.00000001;
 console.log(num3);
 console.log(Math.ceil(num3));
 
+//Random numbers
+//Use Math.random()
+// Gives random number between 0-1
+var num4= Math.random();
+console.log(num4);
+
+//Random number between 0-10 (in a range)
+var num5= Math.random()*10;
+console.log(num5);
+
+//Random integer between 0-100 (in a range)
+var num6= Math.round(Math.random()*100);
+console.log(num6);
+
+//Get a random integer between 2 numbers
+//Math.random()*(max-min)+min
+
+//Get an integer between 50-80
+var num7= Math.round(Math.random()*(30)+50);
+console.log(num7);
