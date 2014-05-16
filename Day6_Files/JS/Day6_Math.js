@@ -46,3 +46,23 @@ console.log(num6);
 //Get an integer between 50-80
 var num7= Math.round(Math.random()*(30)+50);
 console.log(num7);
+
+//Math constant
+//All constants are in caps
+//Pi- 3.1425...
+//Math.PI
+
+//Circumference of a circle
+//2*PI*r
+//radius is half the diameter
+//PI*d
+
+var radius= Number(prompt("What is the radius of the circle?"));
+var areaCircle= 2*Math.PI*radius;
+console.log(areaCircle);
+
+areaCircle= areaCircle.toFixed(2);
+//Add descriptive text
+console.log("The area of the circle with a radius of "+ radius + " is " + areaCircle +".");
+
+
