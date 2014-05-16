@@ -16,17 +16,22 @@ Andrew Sorensen
 
 //Create variable for outside temp
 
-var temp= 84; //degrees
-var waterTemp= 78;
+var temp= Number(prompt("What is the temp?"));
 
-if(temp>=85){
+
+if(temp>=85) {
     console.log("Lets go to the beach!");
+    //Only ask if going to beach
+    var waterTemp=Number(prompt("What is the water temp?"));
+    if (waterTemp >= 75) {
+        console.log("Lets get in the water.");
+    } else {
+        console.log("Lets get a tan.");
+    }
+
+
 }else{
     console.log("Lets go to the movies!");
 }
 
-if(waterTemp>= 75){
-    console.log("Lets get in the water.");
-}else{
-    console.log("Lets get a tan.");
-}
+
