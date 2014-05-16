@@ -11,15 +11,15 @@
 console.log(game);
 
 var playersOnline= prompt("How many friends are online?");
-var mood= prompt("Am I in a social mood?");
+var mood= prompt("Am I in a social mood?").toLowerCase();
 var game= "Game I am playing"
 
 //If statement provides context to the prompt variables
- if(playersOnline>=2 && playersOnline<16 && mood== "Yes"){
+ if(playersOnline>=2 && playersOnline<16 && mood== "yes"){
     //Logs response if both above statements are true
     console.log("GTA Online.");
      game= "GTA Online"
-}else if(playersOnline==1 && mood== "Yes"){
+}else if(playersOnline==1 && mood== "yes"){
     //Logs response if both above statements are true
     console.log("Portal 2.");
      game= "Portal 2"
