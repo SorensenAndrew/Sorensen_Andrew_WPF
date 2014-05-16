@@ -9,3 +9,8 @@
 //Setting up the prompts that will determine my variables
 var playersOnline= prompt("How many friends are online?");
 var mood= prompt("Am I in a social mood?");
+//If statement provides context to the prompt variables
+if(playersOnline>=2 && mood== "Yes"){
+    //Logs response if both above statements are true
+    console.log("I'll play GTA Online.");
+}
