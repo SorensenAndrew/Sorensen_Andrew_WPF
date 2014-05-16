@@ -12,8 +12,10 @@ var mood= prompt("Am I in a social mood?");
 //If statement provides context to the prompt variables
 if(playersOnline>=2 && mood== "Yes"){
     //Logs response if both above statements are true
-    console.log("I'll play GTA Online.");
+    console.log("GTA Online.");
 }else if(playersOnline==1 && mood== "Yes"){
     //Logs response if both above statements are true
-    console.log("I'll play Portal 2.")
-}
+    console.log("Portal 2.")
+}else {
+    //Response if either inquiries come out False
+    console.log("Dragon Age.")
