@@ -22,7 +22,7 @@ while(isNaN(year) || year===""){
     year= prompt("What is your year of birth?");
 }
 console.log(year);
-//Expression put into variable for final result 
+//Expression put into variable for final result
 var dob= "Your date of birth is "+month+", "+date+"th "+year;
 
 console.log(dob);
