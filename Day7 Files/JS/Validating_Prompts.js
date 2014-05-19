@@ -8,8 +8,20 @@
 //Ask user for a min and max number and create a random number in between those 2 numbers
 alert("Lets find a random number between two numbers.");
 var min= (prompt("Please type in a minimum number."));
-var max= Number(prompt("Please type in a max number."));
 
+
+//Validate with a loop
+while(isNaN(min)|| min===""){
+    //its a text string, prompt again for a number
+    min=prompt("Please type in a minimum number.");
+}
+
+var max= Number(prompt("Please type in a max number."));
+while(isNaN(max)){
+    max= Number(prompt("Please type in a max number."));
+}
+
+/*
 //Validate user response
 //Empty string
 if(min===""){
@@ -26,7 +38,7 @@ if(isNaN(max)){
     //Max is a string, not a number
     max=Number(prompt("Please type in a number."));
 }
-
+*/
 var randomNumber=Math.round(Math.random()*(max-min)+min);
 
 console.log("Your random number is " +randomNumber);
