@@ -31,3 +31,4 @@ do{
     i++
 } while(i<10);//Condition to test
 console.log(i);
+
