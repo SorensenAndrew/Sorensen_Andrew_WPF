@@ -6,7 +6,10 @@
 
 //Calculating how fast a Delorian accelerates before traveling back in time
 //Variable that is altered by the do/while statement
-mph= 0
+mph= prompt("How fast is the Delorian going?");
+while(isNaN(mph) || mph===""){
+    mph= prompt("How fast is the Delorian going?");
+}
 //Runs code first
 do{
     console.log("The Delorian is going "+mph+"mph.");
