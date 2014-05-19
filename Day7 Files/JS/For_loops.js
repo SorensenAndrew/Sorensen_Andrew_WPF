@@ -11,3 +11,13 @@ Andrew Sorensen
 for(var i=1; i<=20; i+=4){
     console.log("i = "+i);
 }
+
+//Breaks
+//Stops loop anywhere it is
+
+for(var k=0; k<5; k++){
+    console.log("k= " +k);
+    if(k===3){
+        break;
+    }
+}
