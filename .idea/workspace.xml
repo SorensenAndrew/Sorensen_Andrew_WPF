@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59739333-ee33-46a3-987f-114430b29633" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/Index.html" afterPath="$PROJECT_DIR$/Loops_worksheet/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sorensen_Andrew_WPF.iws" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="17" column="1" selection-start-line="15" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -50,8 +50,8 @@
       <file leaf-file-name="Do_While_Loops.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25677603" vertical-offset="0" max-vertical-offset="701">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.49215406" vertical-offset="0" max-vertical-offset="701">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -61,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -110,8 +110,8 @@
         <option value="$PROJECT_DIR$/Day7 Files/JS/Validating_Prompts.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/WhileLoops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
-        <option value="$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/Index.html" />
+        <option value="$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" />
       </list>
     </option>
@@ -608,18 +608,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="17" column="1" selection-start-line="15" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -627,7 +627,7 @@
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -636,8 +636,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25677603" vertical-offset="0" max-vertical-offset="701">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.49215406" vertical-offset="0" max-vertical-offset="701">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding />
         </state>
       </provider>
