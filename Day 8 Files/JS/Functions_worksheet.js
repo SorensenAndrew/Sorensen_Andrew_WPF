@@ -33,6 +33,6 @@ function beeStings(weight){
 }
 //Putting the function in a variable, argument set to original variable for weight
 var numberStings= beeStings(weight);
-//Log function result to console 
-console.log(numberStings);
+//Log function result to console
+console.log("It takes "+numberStings+" bee stings to kill this animal.");
 
