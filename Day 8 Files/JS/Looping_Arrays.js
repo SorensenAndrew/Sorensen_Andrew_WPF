@@ -31,3 +31,4 @@ for(var j=0;j<bills.length;j++){
     }
 }
 console.log("Your total for bills is $"+totalbills+".");
+

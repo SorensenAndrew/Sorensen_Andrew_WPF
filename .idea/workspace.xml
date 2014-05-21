@@ -2,61 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59739333-ee33-46a3-987f-114430b29633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8 Files/Index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/.name" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/Conditionals_Industry.iml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/Conditionals_Industry.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/encodings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/misc.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/modules.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/vcs.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/Index.html" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/Industry.js" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Industry.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/.name" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/Conditionals_Personal.iml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/Conditionals_Personal.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/encodings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/misc.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/modules.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/vcs.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/Index.html" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/JS/Personal.js" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/JS/Personal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Wacky/Index.html" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Wacky/Wacky.js" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Wacky.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/.name" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/Expressions- Industry .iml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/Expressions- Industry .iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/encodings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/misc.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/modules.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/vcs.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /Index.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /Industry.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /Industry.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/.name" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/Expressions- Personal .iml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/Expressions- Personal .iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/encodings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/misc.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/modules.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/vcs.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /Index.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /JS/Personal.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /JS/Personal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/.name" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/.name" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/Expressions- Wacky .iml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/Expressions- Wacky .iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/encodings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/encodings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/misc.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/misc.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/modules.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/modules.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/scopes/scope_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/vcs.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /Index.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /Index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /Wacky.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /Wacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8 Files/JS/Functions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8 Files/Index.html" afterPath="$PROJECT_DIR$/Day 8 Files/Index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" afterPath="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sorensen_Andrew_WPF.iws" />
@@ -84,17 +32,17 @@
         <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Looping_Arrays.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js">
+      <file leaf-file-name="Functions.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Functions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7061341" vertical-offset="0" max-vertical-offset="701">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.34236804" vertical-offset="0" max-vertical-offset="701">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -144,8 +92,9 @@
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
-        <option value="$PROJECT_DIR$/Day 8 Files/Index.html" />
         <option value="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" />
+        <option value="$PROJECT_DIR$/Day 8 Files/Index.html" />
+        <option value="$PROJECT_DIR$/Day 8 Files/JS/Functions.js" />
       </list>
     </option>
   </component>
@@ -229,6 +178,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day 8 Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sorensen_Andrew_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sorensen_Andrew_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 8 Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -653,18 +620,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js">
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7061341" vertical-offset="0" max-vertical-offset="701">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34236804" vertical-offset="0" max-vertical-offset="701">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
