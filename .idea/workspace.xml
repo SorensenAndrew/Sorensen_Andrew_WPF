@@ -2,8 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59739333-ee33-46a3-987f-114430b29633" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/Index.html" afterPath="$PROJECT_DIR$/Loops_worksheet/Index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8 Files/Index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/.name" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/Conditionals_Industry.iml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/Conditionals_Industry.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/encodings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/misc.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/modules.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/vcs.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/Index.html" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Industry/Industry.js" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Industry.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/.name" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/Conditionals_Personal.iml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/Conditionals_Personal.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/encodings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/misc.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/modules.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/vcs.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/Index.html" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/Index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Personal/JS/Personal.js" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/JS/Personal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Wacky/Index.html" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Conditionals_Wacky/Wacky.js" afterPath="$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Wacky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/.name" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/Expressions- Industry .iml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/Expressions- Industry .iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/encodings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/misc.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/modules.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/vcs.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /Index.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /Index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Industry /Industry.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Industry /Industry.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/.name" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/Expressions- Personal .iml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/Expressions- Personal .iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/encodings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/misc.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/modules.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/vcs.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /Index.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /Index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Personal /JS/Personal.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Personal /JS/Personal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/.name" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/Expressions- Wacky .iml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/Expressions- Wacky .iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/encodings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/encodings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/misc.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/modules.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/scopes/scope_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/vcs.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /.idea/workspace.xml" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /Index.html" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /Index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Expressions- Wacky /Wacky.js" afterPath="$PROJECT_DIR$/Expressions_Assignment/Expressions- Wacky /Wacky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sorensen_Andrew_WPF.iws" />
@@ -28,43 +81,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
+        <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="While_Loops.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
+      <file leaf-file-name="Looping_Arrays.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.7061341" vertical-offset="0" max-vertical-offset="701">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Do_While_Loops.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49215406" vertical-offset="0" max-vertical-offset="701">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Loops.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -109,10 +140,12 @@
         <option value="$PROJECT_DIR$/Day7 Files/Index.html" />
         <option value="$PROJECT_DIR$/Day7 Files/JS/Validating_Prompts.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/WhileLoops.js" />
-        <option value="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/Index.html" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" />
+        <option value="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
+        <option value="$PROJECT_DIR$/Day 8 Files/Index.html" />
+        <option value="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" />
       </list>
     </option>
   </component>
@@ -167,7 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -196,62 +228,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Loops_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorensen_Andrew_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorensen_Andrew_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Loops_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorensen_Andrew_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorensen_Andrew_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day7 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorensen_Andrew_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Sorensen_Andrew_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day7 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JS" />
+              <option name="myItemId" value="Day 8 Files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,15 +247,13 @@
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Conditionals_Assignment" />
+      <recent name="$PROJECT_DIR$/Expressions_Assignment" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -283,14 +264,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -298,6 +277,16 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -345,22 +334,22 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24712643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -398,6 +387,38 @@
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="495">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="435">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/For_Loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="255">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding />
         </state>
@@ -415,7 +436,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="600">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="420">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,32 +450,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="735">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Wacky.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="480">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Industry.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -498,14 +516,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/JS/Personal.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Personal/JS/Personal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
           <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
@@ -519,14 +537,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22865854" vertical-offset="0" max-vertical-offset="656">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Industry.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Industry/Industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4497751" vertical-offset="0" max-vertical-offset="667">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -547,14 +565,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Wacky.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22488755" vertical-offset="0" max-vertical-offset="667">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/Index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Assignment/Conditionals_Wacky/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11432927" vertical-offset="0" max-vertical-offset="656">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
@@ -572,7 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8131241" vertical-offset="0" max-vertical-offset="701">
           <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.50145346" vertical-offset="0" max-vertical-offset="688">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7275321" vertical-offset="0" max-vertical-offset="701">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -596,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,23 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,9 +625,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -638,6 +633,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49215406" vertical-offset="0" max-vertical-offset="701">
           <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06646972" vertical-offset="0" max-vertical-offset="677">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27817404" vertical-offset="0" max-vertical-offset="701">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7061341" vertical-offset="0" max-vertical-offset="701">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
