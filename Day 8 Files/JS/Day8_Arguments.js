@@ -24,4 +24,4 @@ function dogYears(humanAge){ //Parameter
     var dogAge= humanAge*7
     console.log("Dog age is "+dogAge+".");
 }
-dogYears(4);//Argument 
+dogYears(4);//Argument
