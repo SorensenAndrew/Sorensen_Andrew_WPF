@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59739333-ee33-46a3-987f-114430b29633" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8 Files/JS/Functions.js" afterPath="$PROJECT_DIR$/Day 8 Files/JS/Functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 8 Files/JS/Day8_Scope.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8 Files/Index.html" afterPath="$PROJECT_DIR$/Day 8 Files/Index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sorensen_Andrew_WPF.iws" />
@@ -30,17 +31,17 @@
         <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+              <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Functions.js">
+      <file leaf-file-name="Day8_Scope.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Day8_Scope.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7061341" vertical-offset="0" max-vertical-offset="585">
-              <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.47075605" vertical-offset="0" max-vertical-offset="701">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,8 +92,9 @@
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/Do_While_Loops.js" />
         <option value="$PROJECT_DIR$/Loops_worksheet/JS/While_Loops.js" />
         <option value="$PROJECT_DIR$/Day 8 Files/JS/Looping_Arrays.js" />
-        <option value="$PROJECT_DIR$/Day 8 Files/Index.html" />
         <option value="$PROJECT_DIR$/Day 8 Files/JS/Functions.js" />
+        <option value="$PROJECT_DIR$/Day 8 Files/Index.html" />
+        <option value="$PROJECT_DIR$/Day 8 Files/JS/Day8_Scope.js" />
       </list>
     </option>
   </component>
@@ -626,18 +628,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Functions.js">
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7061341" vertical-offset="0" max-vertical-offset="585">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 Files/JS/Day8_Scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47075605" vertical-offset="0" max-vertical-offset="701">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
