@@ -10,10 +10,16 @@
 //Prompt the user for width and height
 
 var width=Number(prompt("Please type in a width."));
-if(isNaN(width)||width===""){
+//Validate with while loop
+while(isNaN(width)|| width===""){
     width=Number(prompt("Please type in a width."));
 }
+
 var height=Number(prompt("Please type in a height."));
+while(isNaN(height)|| height===""){
+    height=Number(prompt("Please type in a height."));
+}
+
 perimeterRect(width,height);
 var perimeter=perimeterRect(width,height);
 console.log(perimeter);
