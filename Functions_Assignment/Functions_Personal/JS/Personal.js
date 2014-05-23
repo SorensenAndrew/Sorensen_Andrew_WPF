@@ -36,4 +36,4 @@ function breakfast(hh,t,l){
 return breakfastItem;
 }
 var myBreakfast= breakfast(howHungry,time,laziness);
-console.log(myBreakfast);
+console.log("I will be having "+myBreakfast+" for breakfast.");

@@ -43,9 +43,6 @@ function areaRect(w,h){
     return a;
 }
 
-/*A ternary
-An else if
-    An anonymous function
+/*  A ternary
     An expression with two arithmetic operators
-    At least one logical operator
     */
