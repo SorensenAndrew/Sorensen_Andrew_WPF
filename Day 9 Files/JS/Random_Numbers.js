@@ -17,10 +17,10 @@ function randomizer(mn,mx) {
 
 }
 //Ask user for mn and mx values
-var minUser=prompt("Enter a min value.");
-var maxUser= prompt("Enter a max value.");
+var minUser=Number(prompt("Enter a min value."));
+var maxUser= Number(prompt("Enter a max value."));
 
 //Call randomizer function
 //Needs variable to catch return value
-var results= randomizer(20,100); //Needs arguments to run
+var results= randomizer(minUser,maxUser); //Needs arguments to run
 console.log(results);
