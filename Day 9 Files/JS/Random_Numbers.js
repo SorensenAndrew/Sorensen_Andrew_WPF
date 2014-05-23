@@ -24,3 +24,11 @@ var maxUser= Number(prompt("Enter a max value."));
 //Needs variable to catch return value
 var results= randomizer(minUser,maxUser); //Needs arguments to run
 console.log(results);
+
+//Create a loop to give us 15 random integers
+for(var i=0;i<15;i++){
+    //Create random integer
+    //Cannot console.log
+    //Must function call
+    console.log(randomizer(minUser,maxUser));
+}
