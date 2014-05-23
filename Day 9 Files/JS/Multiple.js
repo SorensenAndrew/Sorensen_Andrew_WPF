@@ -42,3 +42,10 @@ function areaRect(w,h){
     var a=w*h;
     return a;
 }
+
+/*A ternary
+An else if
+    An anonymous function
+    An expression with two arithmetic operators
+    At least one logical operator
+    */
