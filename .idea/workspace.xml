@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59739333-ee33-46a3-987f-114430b29633" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 Files/JS/Day9_Procedures.js" afterPath="$PROJECT_DIR$/Day 9 Files/JS/Day9_Procedures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 9 Files/JS/Advanced_Arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Day 9 Files/JS/Multiple.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 Files/Index.html" afterPath="$PROJECT_DIR$/Day 9 Files/Index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 Files/JS/Random_Numbers.js" afterPath="$PROJECT_DIR$/Day 9 Files/JS/Random_Numbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sorensen_Andrew_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,18 +31,38 @@
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9 Files/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="8" column="1094" selection-start-line="8" selection-start-column="1094" selection-end-line="8" selection-end-column="1094" />
+            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day9_Procedures.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Day9_Procedures.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Day9_Procedures.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47075605" vertical-offset="0" max-vertical-offset="701">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Advanced_Arrays.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Advanced_Arrays.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multiple.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Multiple.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.28343022" vertical-offset="0" max-vertical-offset="688">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -103,8 +124,10 @@
         <option value="$PROJECT_DIR$/Day 9 Files/JS/kj.js" />
         <option value="$PROJECT_DIR$/Day 9 Files/JS/OK.js" />
         <option value="$PROJECT_DIR$/Day 9 Files/JS/Random_Numbers.js" />
-        <option value="$PROJECT_DIR$/Day 9 Files/Index.html" />
         <option value="$PROJECT_DIR$/Day 9 Files/JS/Day9_Procedures.js" />
+        <option value="$PROJECT_DIR$/Day 9 Files/JS/Advanced_Arrays.js" />
+        <option value="$PROJECT_DIR$/Day 9 Files/Index.html" />
+        <option value="$PROJECT_DIR$/Day 9 Files/JS/Multiple.js" />
       </list>
     </option>
   </component>
@@ -578,6 +601,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -585,6 +609,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -592,6 +617,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
           <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -611,6 +637,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9 Files/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Random_Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7275321" vertical-offset="0" max-vertical-offset="701">
@@ -619,18 +653,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 9 Files/Index.html">
+    <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Day9_Procedures.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
-          <caret line="8" column="1094" selection-start-line="8" selection-start-column="1094" selection-end-line="8" selection-end-column="1094" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Day9_Procedures.js">
+    <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Advanced_Arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47075605" vertical-offset="0" max-vertical-offset="701">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9 Files/JS/Multiple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28343022" vertical-offset="0" max-vertical-offset="688">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
           <folding />
         </state>
       </provider>
